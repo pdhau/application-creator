@@ -1,0 +1,6 @@
+interface:
+  display_name: "React QA"
+  short_description: "Test React apps across behavior and UX"
+  default_prompt: "Use $react-qa to plan or implement reliable testing for this React application."
+policy:
+  allow_implicit_invocation: true

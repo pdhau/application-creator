@@ -1,0 +1,6 @@
+interface:
+  display_name: "Improve React App"
+  short_description: "Audit and improve an existing React app"
+  default_prompt: "Use $improve-react-app to find and implement the highest-impact improvements."
+policy:
+  allow_implicit_invocation: true

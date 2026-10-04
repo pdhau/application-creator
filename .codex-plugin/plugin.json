@@ -1,0 +1,36 @@
+{
+  "name": "application-creator",
+  "version": "0.2.0",
+  "description": "An opinionated React application studio with end-to-end creation, architecture, design, testing, review, and deployment skills.",
+  "author": {
+    "name": "Application Creator Contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "frontend",
+    "web-app",
+    "testing",
+    "playwright"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Application Creator",
+    "shortDescription": "Build and ship production-ready React applications",
+    "longDescription": "A coordinated set of React skills and specialist agents for planning, scaffolding, implementation, design, QA, review, and deployment.",
+    "developerName": "Application Creator Contributors",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Build a React application from this product idea.",
+      "Add this feature to my React application.",
+      "Review and improve this React codebase."
+    ],
+    "brandColor": "#149ECA"
+  }
+}

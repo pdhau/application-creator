@@ -1,0 +1,6 @@
+interface:
+  display_name: "Deploy React App"
+  short_description: "Prepare and deploy a verified React app"
+  default_prompt: "Use $deploy-react-app to prepare and publish this React application."
+policy:
+  allow_implicit_invocation: true

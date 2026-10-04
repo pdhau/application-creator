@@ -1,0 +1,9 @@
+{
+  "name": "application-creator",
+  "description": "Opinionated skills and agents for building, testing, reviewing, and shipping React applications.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Application Creator Contributors"
+  },
+  "keywords": ["react", "typescript", "vite", "frontend", "testing", "playwright"]
+}

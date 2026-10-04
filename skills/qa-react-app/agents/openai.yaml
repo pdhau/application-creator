@@ -1,0 +1,6 @@
+interface:
+  display_name: "QA React App"
+  short_description: "Add and run tests for a React application"
+  default_prompt: "Use $qa-react-app to add and execute the right tests for this React app."
+policy:
+  allow_implicit_invocation: true

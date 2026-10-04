@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design React App"
+  short_description: "Improve React UI and interaction design"
+  default_prompt: "Use $design-react-app to polish the interface and user experience."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Add React Feature"
+  short_description: "Add a feature to an existing React app"
+  default_prompt: "Use $add-react-feature to implement this feature safely in the current React application."
+policy:
+  allow_implicit_invocation: true

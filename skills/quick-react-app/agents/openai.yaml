@@ -1,0 +1,6 @@
+interface:
+  display_name: "Quick React App"
+  short_description: "Create a focused React prototype quickly"
+  default_prompt: "Use $quick-react-app to turn this idea into a working React prototype."
+policy:
+  allow_implicit_invocation: true
